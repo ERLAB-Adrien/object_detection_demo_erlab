@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>SigmaAldrich (3).JPG</filename>
+	<path>C:\Users\Agerber\Documents\My Projects\Python - ImageRecognition\object_detection_demo-master\data\train\SigmaAldrich (3).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>665</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SigmaAldrich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>15</ymin>
+			<xmax>662</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>Chemlab (4).JPG</filename>
+	<path>C:\Users\Agerber\Documents\My Projects\Python - ImageRecognition\object_detection_demo-master\data\raw\Chemlab (4).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>537</width>
+		<height>584</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ChemLab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>50</ymin>
+			<xmax>525</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

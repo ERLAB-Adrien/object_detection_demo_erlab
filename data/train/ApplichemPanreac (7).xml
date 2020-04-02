@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>ApplichemPanreac (7).JPG</filename>
+	<path>C:\Users\Agerber\Documents\My Projects\Python - ImageRecognition\object_detection_demo-master\data\raw\ApplichemPanreac (7).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1334</width>
+		<height>271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ApplichemPanreac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>29</ymin>
+			<xmax>1277</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

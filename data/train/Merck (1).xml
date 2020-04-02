@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>Merck (1).JPG</filename>
+	<path>C:\Users\Agerber\Documents\My Projects\Python - ImageRecognition\object_detection_demo-master\data\raw\Merck (1).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>164</width>
+		<height>137</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>151</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

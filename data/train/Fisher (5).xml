@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>Fisher (5).JPG</filename>
+	<path>C:\Users\Agerber\Documents\My Projects\Python - ImageRecognition\object_detection_demo-master\data\raw\Fisher (5).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fisher</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>43</ymin>
+			<xmax>361</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

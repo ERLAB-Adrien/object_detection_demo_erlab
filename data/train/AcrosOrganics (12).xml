@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>AcrosOrganics (12).JPG</filename>
+	<path>C:\Users\Agerber\Documents\My Projects\Python - ImageRecognition\object_detection_demo-master\data\train\AcrosOrganics (12).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>633</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AcrosOrganics</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>35</ymin>
+			<xmax>608</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
